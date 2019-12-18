@@ -1,0 +1,1 @@
+2019-10-28 20:07:42 Тип аргументов: <class 'argparse.Namespace'>, список аргументов: Namespace(digits=3, full_match='V', log='logfile.txt', partial_match='K', timestamp='2019-10-28 20:07:42')
